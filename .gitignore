@@ -1,0 +1,22 @@
+=> Compiled files
+.class
+
+=>Jar files
+.jar
+
+=> Log files
+.log
+
+=>OS files
+.DS_Store
+Thumbs.db
+
+=>IDE files
+.idea/
+.iml
+.vscode/
+
+=>Build folders
+bin/
+build/
+out/
